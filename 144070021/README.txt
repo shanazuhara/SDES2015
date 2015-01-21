@@ -1,7 +1,11 @@
-Name: Student T
-Course: MBBS
-Department: Medical Sciences
-Roll number: JB007
-Year: Infinite
+This is the new corrected commit for README.txt
+
+Commited by Shana
+Name: Shana Moothedath
+Course: Ph.d
+Department:Electrical Engineering
+Roll number: 144070021
+Year: 2015
 Research/study interests:
-Brain surgery, heart disease, foot in mouth disease.
+Control and Computins, Matching Theory.
+
