@@ -1,6 +1,3 @@
-This is the new corrected commit for README.txt
-
-Commited by Shana
 Name: Shana Moothedath
 Course: Ph.d
 Department:Electrical Engineering
